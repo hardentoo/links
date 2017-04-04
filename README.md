@@ -14,3 +14,7 @@ Links for programming
 ### Python
 
 [https://docs.python.org/3/](https://docs.python.org/3/)
+
+### PHP
+
+[https://secure.php.net/manual/ru/index.php](https://secure.php.net/manual/ru/index.php)
