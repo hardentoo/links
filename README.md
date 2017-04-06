@@ -11,6 +11,10 @@ Links for programming
 
 [https://developer.mozilla.org/ru/docs/Web](https://developer.mozilla.org/ru/docs/Web)
 
+#### React
+
+[https://metanit.com/web/react/](https://metanit.com/web/react/)
+
 ### Python
 
 [https://docs.python.org/3/](https://docs.python.org/3/)
