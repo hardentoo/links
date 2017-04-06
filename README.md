@@ -14,7 +14,9 @@ Links for programming
 #### React
 
 [https://metanit.com/web/react/](https://metanit.com/web/react/)
+
 [http://getinstance.info/articles/react/](http://getinstance.info/articles/react/)
+
 [https://facebook.github.io/react/docs/installation.html](https://facebook.github.io/react/docs/installation.html)
 
 ### Python
