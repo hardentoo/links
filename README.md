@@ -17,6 +17,11 @@
 ### Python
 
 1. [https://docs.python.org/3/](https://docs.python.org/3/)
+1. [https://python-gtk-3-tutorial.readthedocs.io/en/latest/](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
+1. [https://scipy.org/](https://scipy.org/)
+
+---
+
 1. [https://py.checkio.org/](https://py.checkio.org/)
 1. [https://pythonworld.ru/samouchitel-python](https://pythonworld.ru/samouchitel-python)
 1. [https://pythonworld.ru/osnovy/tasks.html](https://pythonworld.ru/osnovy/tasks.html)
