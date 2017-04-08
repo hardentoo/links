@@ -77,6 +77,13 @@ Links for programming
 
 [http://zetcode.com/](http://zetcode.com/)
 
+[https://habrahabr.ru/post/207988/](https://habrahabr.ru/post/207988/)
+
+[https://habrahabr.ru/post/85238/](https://habrahabr.ru/post/85238/)
+
+[https://pynsk.ru/blog/2016/01/18/collection-task-part1/](https://pynsk.ru/blog/2016/01/18/collection-task-part1/)
+
+
 ### PHP
 
 [https://secure.php.net/manual/ru/index.php](https://secure.php.net/manual/ru/index.php)
