@@ -25,6 +25,20 @@
 1. [https://code.activestate.com/recipes/langs/python/](https://code.activestate.com/recipes/langs/python/)
 1. [https://wiki.python.org/moin/PyQt](https://wiki.python.org/moin/PyQt)
 1. [http://pyqt.sourceforge.net/Docs/PyQt5/](http://pyqt.sourceforge.net/Docs/PyQt5/)
+1. [https://wiki.python.org/moin/TkInter](https://wiki.python.org/moin/TkInter)
+1. [http://tkinter.unpythonic.net/wiki/](http://tkinter.unpythonic.net/wiki/)
+1. [https://docs.python.org/3/library/tk.html](https://docs.python.org/3/library/tk.html)
+1. [https://www.tutorialspoint.com/python/python_gui_programming.htm](https://www.tutorialspoint.com/python/python_gui_programming.htm)
+1. [http://www.tkdocs.com/tutorial/](http://www.tkdocs.com/tutorial/)
+1. [http://www.pygtk.org/pygtk2tutorial/index.html](http://www.pygtk.org/pygtk2tutorial/index.html)
+1. [https://www.cairographics.org/examples/](https://www.cairographics.org/examples/)
+1. [https://cairographics.org/pycairo/](https://cairographics.org/pycairo/)
+1. [http://www.tortall.net/mu/wiki/CairoTutorial](http://www.tortall.net/mu/wiki/CairoTutorial)
+1. [https://developer.gnome.org/goocanvas/stable/](https://developer.gnome.org/goocanvas/stable/)
+1. [https://pythonprogramming.net/](https://pythonprogramming.net/)
+1. [http://inventwithpython.com/blog/2010/09/01/the-top-10-pygame-tutorials/](http://inventwithpython.com/blog/2010/09/01/the-top-10-pygame-tutorials/)
+1. [http://www.nerdparadise.com/programming/pygame/part1](http://www.nerdparadise.com/programming/pygame/part1)
+1. [https://www.pygame.org/wiki/tutorials](https://www.pygame.org/wiki/tutorials)
 ---
 1. [https://py.checkio.org/](https://py.checkio.org/)
 1. [https://pythonworld.ru/samouchitel-python](https://pythonworld.ru/samouchitel-python)
@@ -52,16 +66,20 @@
 1. [http://www.pythontutor.com/](http://www.pythontutor.com/)
 1. [http://python-3.ru/category/pyqt/next/2](http://python-3.ru/category/pyqt/next/2)
 1. [https://python-scripts.com/pycairo-tutorial](https://python-scripts.com/pycairo-tutorial)
+1. [https://pynsk.ru/blog/2016/01/18/collection-task-part1/](https://pynsk.ru/blog/2016/01/18/collection-task-part1/)
 ---
 1. [http://zetcode.com/](http://zetcode.com/)
 1. [http://zetcode.com/gui/pyqt5/](http://zetcode.com/gui/pyqt5/)
+1. [http://zetcode.com/gui/tkinter/](http://zetcode.com/gui/tkinter/)
+1. [http://zetcode.com/gfx/pycairo/introduction/](http://zetcode.com/gfx/pycairo/introduction/)
 ---
 1. [https://habrahabr.ru/post/207988/](https://habrahabr.ru/post/207988/)
 1. [https://habrahabr.ru/post/85238/](https://habrahabr.ru/post/85238/)
 1. [https://habrahabr.ru/post/205944/](https://habrahabr.ru/post/205944/)
 1. [https://habrahabr.ru/post/150302/](https://habrahabr.ru/post/150302/)
 1. [https://habrahabr.ru/post/168083/](https://habrahabr.ru/post/168083/)
-1. [https://pynsk.ru/blog/2016/01/18/collection-task-part1/](https://pynsk.ru/blog/2016/01/18/collection-task-part1/)
+1. [https://habrahabr.ru/post/193888/](https://habrahabr.ru/post/193888/)
+1. [https://habrahabr.ru/post/196432/](https://habrahabr.ru/post/196432/)
 
 ### PHP
 
