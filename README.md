@@ -1,5 +1,4 @@
-# links
-Links for programming
+# Links for programming
 
 1. [https://www.codewars.com](https://www.codewars.com)
 1. [https://checkio.org](https://checkio.org)
