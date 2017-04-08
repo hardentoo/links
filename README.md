@@ -20,6 +20,7 @@
 1. [https://python-gtk-3-tutorial.readthedocs.io/en/latest/](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
 1. [https://scipy.org/](https://scipy.org/)
 1. [https://pypi.python.org/pypi](https://pypi.python.org/pypi)
+1. [https://code.activestate.com/recipes/langs/python/](https://code.activestate.com/recipes/langs/python/)
 ---
 1. [https://py.checkio.org/](https://py.checkio.org/)
 1. [https://pythonworld.ru/samouchitel-python](https://pythonworld.ru/samouchitel-python)
