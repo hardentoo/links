@@ -47,7 +47,7 @@
 1. [https://habrahabr.ru/post/207988/](https://habrahabr.ru/post/207988/)
 1. [https://habrahabr.ru/post/85238/](https://habrahabr.ru/post/85238/)
 1. [https://pynsk.ru/blog/2016/01/18/collection-task-part1/](https://pynsk.ru/blog/2016/01/18/collection-task-part1/)
-s
+
 ### PHP
 
 1. [https://secure.php.net/manual/ru/index.php](https://secure.php.net/manual/ru/index.php)
