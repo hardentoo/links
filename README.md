@@ -51,7 +51,7 @@ Links for programming
 
 [https://stepik.org/course/Программирование-на-Python-67](Программирование на Python)
 
-[https://stepik.org/course/Python-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B8-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-512](Python: основы и применение)
+[https://stepik.org/course/Python-основы-и-применение-512](Python: основы и применение)
 
 [http://younglinux.info/python.php](http://younglinux.info/python.php)
 
