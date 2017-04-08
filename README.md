@@ -17,6 +17,8 @@
 ### Python
 
 1. [https://docs.python.org/3/](https://docs.python.org/3/)
+1. [https://docs.python.org/3.6/tutorial/index.html](https://docs.python.org/3.6/tutorial/index.html)
+1. [https://docs.python.org/3.6/c-api/index.html](https://docs.python.org/3.6/c-api/index.html)
 1. [https://python-gtk-3-tutorial.readthedocs.io/en/latest/](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
 1. [https://scipy.org/](https://scipy.org/)
 1. [https://pypi.python.org/pypi](https://pypi.python.org/pypi)
