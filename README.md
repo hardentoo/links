@@ -23,6 +23,8 @@
 1. [https://scipy.org/](https://scipy.org/)
 1. [https://pypi.python.org/pypi](https://pypi.python.org/pypi)
 1. [https://code.activestate.com/recipes/langs/python/](https://code.activestate.com/recipes/langs/python/)
+1. [https://wiki.python.org/moin/PyQt](https://wiki.python.org/moin/PyQt)
+1. [http://pyqt.sourceforge.net/Docs/PyQt5/](http://pyqt.sourceforge.net/Docs/PyQt5/)
 ---
 1. [https://py.checkio.org/](https://py.checkio.org/)
 1. [https://pythonworld.ru/samouchitel-python](https://pythonworld.ru/samouchitel-python)
@@ -50,7 +52,9 @@
 1. [http://www.pythontutor.com/](http://www.pythontutor.com/)
 1. [http://python-3.ru/category/pyqt/next/2](http://python-3.ru/category/pyqt/next/2)
 1. [https://python-scripts.com/pycairo-tutorial](https://python-scripts.com/pycairo-tutorial)
+---
 1. [http://zetcode.com/](http://zetcode.com/)
+1. [http://zetcode.com/gui/pyqt5/](http://zetcode.com/gui/pyqt5/)
 ---
 1. [https://habrahabr.ru/post/207988/](https://habrahabr.ru/post/207988/)
 1. [https://habrahabr.ru/post/85238/](https://habrahabr.ru/post/85238/)
