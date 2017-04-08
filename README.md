@@ -22,7 +22,6 @@ Links for programming
 ### Python
 
 1. [https://docs.python.org/3/](https://docs.python.org/3/)
-
 1. [https://py.checkio.org/](https://py.checkio.org/)
 
 [https://pythonworld.ru/samouchitel-python](https://pythonworld.ru/samouchitel-python)
