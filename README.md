@@ -49,9 +49,9 @@ Links for programming
 
 [https://projecteuler.net/archives](https://projecteuler.net/archives)
 
-[https://stepik.org/course/Программирование-на-Python-67](https://stepik.org/course/Программирование-на-Python-67)
+[https://stepik.org/course/Программирование-на-Python-67](https://stepik.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67)
 
-[https://stepik.org/course/Python-основы-и-применение-512](https://stepik.org/course/Python-основы-и-применение-512)
+[https://stepik.org/course/Python-основы-и-применение-512](https://stepik.org/course/Python-%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B8-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-512)
 
 [http://younglinux.info/python.php](http://younglinux.info/python.php)
 
@@ -59,7 +59,7 @@ Links for programming
 
 [http://younglinux.info/book/export/html/48](http://younglinux.info/book/export/html/48)
 
-[https://ru.wikiversity.org/wiki/Курс_по_библиотеке_Tkinter_языка_Python](https://ru.wikiversity.org/)
+[https://ru.wikiversity.org/wiki/Курс_по_библиотеке_Tkinter_языка_Python](https://ru.wikiversity.org/wiki/%D0%9A%D1%83%D1%80%D1%81_%D0%BF%D0%BE_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B5_Tkinter_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0_Python)
 
 [https://python-scripts.com/tkinter-introduction](https://python-scripts.com/tkinter-introduction)
 
