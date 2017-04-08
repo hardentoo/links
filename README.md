@@ -45,13 +45,13 @@ Links for programming
 
 [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python)
 
-[http://www.pythonchallenge.com/](Python Challenge)
+[http://www.pythonchallenge.com/](http://www.pythonchallenge.com/)
 
 [https://projecteuler.net/archives](https://projecteuler.net/archives)
 
-[https://stepik.org/course/Программирование-на-Python-67](Программирование на Python)
+[https://stepik.org/course/Программирование-на-Python-67](https://stepik.org/course/Программирование-на-Python-67)
 
-[https://stepik.org/course/Python-основы-и-применение-512](Python: основы и применение)
+[https://stepik.org/course/Python-основы-и-применение-512](https://stepik.org/course/Python-основы-и-применение-512)
 
 [http://younglinux.info/python.php](http://younglinux.info/python.php)
 
