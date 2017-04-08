@@ -36,7 +36,7 @@ Links for programming
 1. [http://younglinux.info/python.php](http://younglinux.info/python.php)
 1. [http://younglinux.info/book/export/html/36](http://younglinux.info/book/export/html/36)
 1. [http://younglinux.info/book/export/html/48](http://younglinux.info/book/export/html/48)
-1. [https://ru.wikiversity.org/wiki/Курс_по_библиотеке_Tkinter_языка_Python](https://ru.wikiversity.org/1. wiki/%D0%9A%D1%83%D1%80%D1%81_%D0%BF%D0%BE_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B5_Tkinter_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0_Python)
+1. [https://ru.wikiversity.org/wiki/Курс_по_библиотеке_Tkinter_языка_Python](https://ru.wikiversity.org/wiki/%D0%9A%D1%83%D1%80%D1%81_%D0%BF%D0%BE_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B5_Tkinter_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0_Python)
 1. [https://python-scripts.com/tkinter-introduction](https://python-scripts.com/tkinter-introduction)
 1. [http://www.russianlutheran.org/python/python.html](http://www.russianlutheran.org/python/python.html)
 1. [http://pythonicway.com/](http://pythonicway.com/)
