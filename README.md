@@ -46,6 +46,9 @@
 1. [http://zetcode.com/](http://zetcode.com/)
 1. [https://habrahabr.ru/post/207988/](https://habrahabr.ru/post/207988/)
 1. [https://habrahabr.ru/post/85238/](https://habrahabr.ru/post/85238/)
+1. [https://habrahabr.ru/post/205944/](https://habrahabr.ru/post/205944/)
+1. [https://habrahabr.ru/post/150302/](https://habrahabr.ru/post/150302/)
+1. [https://habrahabr.ru/post/168083/](https://habrahabr.ru/post/168083/)
 1. [https://pynsk.ru/blog/2016/01/18/collection-task-part1/](https://pynsk.ru/blog/2016/01/18/collection-task-part1/)
 
 ### PHP
