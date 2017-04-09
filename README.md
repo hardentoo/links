@@ -52,6 +52,9 @@
 1. [http://inventwithpython.com/blog/2010/09/01/the-top-10-pygame-tutorials/](http://inventwithpython.com/blog/2010/09/01/the-top-10-pygame-tutorials/)
 1. [http://www.nerdparadise.com/programming/pygame/part1](http://www.nerdparadise.com/programming/pygame/part1)
 1. [https://www.pygame.org/wiki/tutorials](https://www.pygame.org/wiki/tutorials)
+1. [https://www.tutorialspoint.com/wxpython/](https://www.tutorialspoint.com/wxpython/)
+1. [https://wiki.wxpython.org/How%20to%20Learn%20wxPython](https://wiki.wxpython.org/How%20to%20Learn%20wxPython)
+1. [https://wiki.wxpython.org/Getting%20Started](https://wiki.wxpython.org/Getting%20Started)
 ---
 1. [https://py.checkio.org/](https://py.checkio.org/)
 1. [https://pythonworld.ru/samouchitel-python](https://pythonworld.ru/samouchitel-python)
@@ -85,6 +88,7 @@
 1. [http://zetcode.com/gui/pyqt5/](http://zetcode.com/gui/pyqt5/)
 1. [http://zetcode.com/gui/tkinter/](http://zetcode.com/gui/tkinter/)
 1. [http://zetcode.com/gfx/pycairo/introduction/](http://zetcode.com/gfx/pycairo/introduction/)
+1. [http://zetcode.com/wxpython/](http://zetcode.com/wxpython/)
 ---
 1. [https://habrahabr.ru/post/207988/](https://habrahabr.ru/post/207988/)
 1. [https://habrahabr.ru/post/85238/](https://habrahabr.ru/post/85238/)
