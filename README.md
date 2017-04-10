@@ -11,17 +11,17 @@
 
 ### C++
 
-1.  [http://www.cplusplus.com/doc/tutorial/](http://www.cplusplus.com/doc/tutorial/)
-1.  [http://en.cppreference.com/w/](http://en.cppreference.com/w/)
-1.  [https://acmp.ru/](https://acmp.ru/)
-1.  [http://informatics.mccme.ru/](http://informatics.mccme.ru/)
-1.  [Stepik Программирование на языке C++](https://stepik.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5-C%2B%2B-7/)
-1.  [https://theboostcpplibraries.com/](https://theboostcpplibraries.com/)
-1.  [http://www.boost.org/doc/](http://www.boost.org/doc/)
-1.  [http://www.amse.ru/courses.php](http://www.amse.ru/courses.php)
-1.  [https://compscicenter.ru/courses/cpp-1/](https://compscicenter.ru/courses/cpp-1/)
-1.  [https://compscicenter.ru/courses/cpp-2/](https://compscicenter.ru/courses/cpp-2/)
-1.  [http://valera.asf.ru/cpp/book/](http://valera.asf.ru/cpp/book/)
+1.[http://www.cplusplus.com/doc/tutorial/](http://www.cplusplus.com/doc/tutorial/)
+1.[http://en.cppreference.com/w/](http://en.cppreference.com/w/)
+1.[https://acmp.ru/](https://acmp.ru/)
+1.[http://informatics.mccme.ru/](http://informatics.mccme.ru/)
+1.[Stepik Программирование на языке C++](https://stepik.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5-C%2B%2B-7/)
+1.[https://theboostcpplibraries.com/](https://theboostcpplibraries.com/)
+1.[http://www.boost.org/doc/](http://www.boost.org/doc/)
+1.[http://www.amse.ru/courses.php](http://www.amse.ru/courses.php)
+1.[https://compscicenter.ru/courses/cpp-1/](https://compscicenter.ru/courses/cpp-1/)
+1.[https://compscicenter.ru/courses/cpp-2/](https://compscicenter.ru/courses/cpp-2/)
+1.[http://valera.asf.ru/cpp/book/](http://valera.asf.ru/cpp/book/)
 
 1.  [https://isocpp.org/](https://isocpp.org/)
 1.  [https://isocpp.org/faq](https://isocpp.org/faq)
