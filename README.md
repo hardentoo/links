@@ -4,6 +4,11 @@
 1. [https://checkio.org](https://checkio.org)
 1. [https://www.outcoldman.com](https://www.outcoldman.com/en/archive/2015/09/13/keep-your-sh-together/)
 
+### C
+
+1. [https://www.tutorialspoint.com/cprogramming/cprogramming_online_quiz.htm](https://www.tutorialspoint.com/cprogramming/cprogramming_online_quiz.htm)
+1. [http://www.cprogramming.com/tutorial/c/quiz/quiz1.html](http://www.cprogramming.com/tutorial/c/quiz/quiz1.html) 
+
 ### C++
 
 1.  [https://acmp.ru/](https://acmp.ru/)
@@ -15,6 +20,10 @@
 1.  [https://compscicenter.ru/courses/cpp-1/](https://compscicenter.ru/courses/cpp-1/)
 1.  [https://compscicenter.ru/courses/cpp-2/](https://compscicenter.ru/courses/cpp-2/)
 1.  [http://valera.asf.ru/cpp/book/](http://valera.asf.ru/cpp/book/)
+
+1. [http://cppquiz.org/](http://cppquiz.org/)
+1. [http://cpp-russia.ru/][http://cpp-russia.ru/)
+1. [https://herbsutter.com/2013/08/19/gotw-7a-solution-minimizing-compile-time-dependencies-part-1/](https://herbsutter.com/2013/08/19/gotw-7a-solution-minimizing-compile-time-dependencies-part-1/)
 
 ### JavaScript
 
