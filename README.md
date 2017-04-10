@@ -22,7 +22,7 @@
 1.  [http://valera.asf.ru/cpp/book/](http://valera.asf.ru/cpp/book/)
 
 1. [http://cppquiz.org/](http://cppquiz.org/)
-1. [http://cpp-russia.ru/][http://cpp-russia.ru/)
+1. [http://cpp-russia.ru/](http://cpp-russia.ru/)
 1. [https://herbsutter.com/2013/08/19/gotw-7a-solution-minimizing-compile-time-dependencies-part-1/](https://herbsutter.com/2013/08/19/gotw-7a-solution-minimizing-compile-time-dependencies-part-1/)
 
 ### JavaScript
