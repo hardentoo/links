@@ -30,6 +30,11 @@
 1.  [http://cpp-russia.ru/](http://cpp-russia.ru/)
 
 1.  [https://herbsutter.com/2013/08/19/gotw-7a-solution-minimizing-compile-time-dependencies-part-1/](https://herbsutter.com/2013/08/19/gotw-7a-solution-minimizing-compile-time-dependencies-part-1/)
+1.  [http://info.fenster.name/](http://info.fenster.name/) 
+
+#### Boost
+
+1. [http://www.boost.org/](http://www.boost.org/)
 
 ### JavaScript
 
