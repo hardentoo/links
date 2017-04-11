@@ -29,6 +29,8 @@
 1. [http://cpp-russia.ru/](http://cpp-russia.ru/)
 1. [https://herbsutter.com/2013/08/19/gotw-7a-solution-minimizing-compile-time-dependencies-part-1/](https://herbsutter.com/2013/08/19/gotw-7a-solution-minimizing-compile-time-dependencies-part-1/)
 1. [http://info.fenster.name/](http://info.fenster.name/) 
+1. [http://cppstudio.com/](http://cppstudio.com/)
+1. [https://code-live.ru/tag/cpp-manual/](https://code-live.ru/tag/cpp-manual/)
 
 #### Boost
 
