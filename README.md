@@ -8,6 +8,7 @@
 
 1. [https://www.tutorialspoint.com/cprogramming/cprogramming_online_quiz.htm](https://www.tutorialspoint.com/cprogramming/cprogramming_online_quiz.htm)
 1. [http://www.cprogramming.com/tutorial/c/quiz/quiz1.html](http://www.cprogramming.com/tutorial/c/quiz/quiz1.html) 
+1. [http://cpp.com.ru/shildt_spr_po_c/index.html](http://cpp.com.ru/shildt_spr_po_c/index.html)
 
 ### C++
 
