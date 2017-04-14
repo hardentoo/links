@@ -53,6 +53,7 @@
 1. [https://docs.python.org/3.6/tutorial/index.html](https://docs.python.org/3.6/tutorial/index.html)
 1. [https://docs.python.org/3.6/library/index.html](https://docs.python.org/3.6/library/index.html)
 1. [https://docs.python.org/3.6/c-api/index.html](https://docs.python.org/3.6/c-api/index.html)
+1. [https://docs.python.org/3/howto/curses.html](https://docs.python.org/3/howto/curses.html)
 1. [https://python-gtk-3-tutorial.readthedocs.io/en/latest/](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
 1. [http://pyqt.sourceforge.net/Docs/PyQt5/](http://pyqt.sourceforge.net/Docs/PyQt5/)
 1. [https://docs.python.org/3/library/tk.html](https://docs.python.org/3/library/tk.html)
@@ -118,6 +119,8 @@
 1. [https://habrahabr.ru/post/168083/](https://habrahabr.ru/post/168083/)
 1. [https://habrahabr.ru/post/193888/](https://habrahabr.ru/post/193888/)
 1. [https://habrahabr.ru/post/196432/](https://habrahabr.ru/post/196432/)
+---
+1. [http://progras.ru/uchebnik-programmirovaniya-programmirovanie-eto-interesno/](http://progras.ru/uchebnik-programmirovaniya-programmirovanie-eto-interesno/)
 
 ### PHP
 
