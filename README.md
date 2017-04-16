@@ -78,6 +78,9 @@
 1. [https://wiki.wxpython.org/How%20to%20Learn%20wxPython](https://wiki.wxpython.org/How%20to%20Learn%20wxPython)
 1. [https://wiki.wxpython.org/Getting%20Started](https://wiki.wxpython.org/Getting%20Started)
 ---
+1. [http://effbot.org/](http://effbot.org/)
+1. [http://www.python-course.eu/index.php](http://www.python-course.eu/index.php)
+---
 1. [https://py.checkio.org/](https://py.checkio.org/)
 1. [https://pythonworld.ru/samouchitel-python](https://pythonworld.ru/samouchitel-python)
 1. [https://pythonworld.ru/osnovy/tasks.html](https://pythonworld.ru/osnovy/tasks.html)
