@@ -79,6 +79,7 @@
 1. [https://wiki.wxpython.org/Getting%20Started](https://wiki.wxpython.org/Getting%20Started)
 ---
 1. [http://effbot.org/](http://effbot.org/)
+1. [http://effbot.org/imagingbook/pil-index.htm](http://effbot.org/imagingbook/pil-index.htm)
 1. [http://www.python-course.eu/index.php](http://www.python-course.eu/index.php)
 ---
 1. [https://py.checkio.org/](https://py.checkio.org/)
@@ -124,6 +125,12 @@
 1. [https://habrahabr.ru/post/196432/](https://habrahabr.ru/post/196432/)
 ---
 1. [http://progras.ru/uchebnik-programmirovaniya-programmirovanie-eto-interesno/](http://progras.ru/uchebnik-programmirovaniya-programmirovanie-eto-interesno/)
+1. [http://progras.ru/34-otvlechemsya-ot-spiskov-prostye-zadachi-prostye-igry/](http://progras.ru/34-otvlechemsya-ot-spiskov-prostye-zadachi-prostye-igry/)
+1. [http://easygui.sourceforge.net/](http://easygui.sourceforge.net/)
+1. [http://programarcadegames.com/index.php?lang=ru](http://programarcadegames.com/index.php?lang=ru)
+1. [http://pythono.ru/pygame/](http://pythono.ru/pygame/)
+1. [http://pythono.ru/python-win-exe/](http://pythono.ru/python-win-exe/)
+1. [http://pythono.ru/pyqt-first-program/](http://pythono.ru/pyqt-first-program/)
 
 ### PHP
 
