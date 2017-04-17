@@ -1,7 +1,14 @@
 # Links for programming
 
+### Courses
+
 1. [https://www.codewars.com](https://www.codewars.com)
 1. [https://checkio.org](https://checkio.org)
+1. [http://www.codeabbey.com/](http://www.codeabbey.com/)
+1. [http://rosettacode.org/wiki/Rosetta_Code](http://rosettacode.org/wiki/Rosetta_Code)
+
+### Dotfiles
+
 1. [https://www.outcoldman.com](https://www.outcoldman.com/en/archive/2015/09/13/keep-your-sh-together/)
 
 ### C
@@ -36,16 +43,6 @@
 #### Boost
 
 1. [http://www.boost.org/](http://www.boost.org/)
-
-### JavaScript
-
-1. [https://developer.mozilla.org/ru/docs/Web](https://developer.mozilla.org/ru/docs/Web)
-
-#### React
-
-1. [https://metanit.com/web/react/](https://metanit.com/web/react/)
-1. [http://getinstance.info/articles/react/](http://getinstance.info/articles/react/)
-1. [https://facebook.github.io/react/docs/installation.html](https://facebook.github.io/react/docs/installation.html)
 
 ### Python
 
@@ -131,6 +128,31 @@
 1. [http://pythono.ru/pygame/](http://pythono.ru/pygame/)
 1. [http://pythono.ru/python-win-exe/](http://pythono.ru/python-win-exe/)
 1. [http://pythono.ru/pyqt-first-program/](http://pythono.ru/pyqt-first-program/)
+
+### Go
+
+1. [http://golang-book.ru/](http://golang-book.ru/)
+1. [https://golang.org/doc/](https://golang.org/doc/)
+1. [https://habrahabr.ru/post/249545/](https://habrahabr.ru/post/249545/)
+
+### Haskell
+
+1. [https://anton-k.github.io/ru-haskell-book/book/home.html](https://anton-k.github.io/ru-haskell-book/book/home.html)
+1. [http://blogerator.org/page/haskell-s-chego-nachat](http://blogerator.org/page/haskell-s-chego-nachat)
+1. [http://alexott.net/ru/fp/books/](http://alexott.net/ru/fp/books/)
+1. [https://wiki.haskell.org/Gentoo](https://wiki.haskell.org/Gentoo)
+1. [https://wiki.haskell.org/Gentoo/HaskellPlatform](https://wiki.haskell.org/Gentoo/HaskellPlatform)
+1. [https://wiki.gentoo.org/wiki/Haskell](https://wiki.gentoo.org/wiki/Haskell)
+
+### JavaScript
+
+1. [https://developer.mozilla.org/ru/docs/Web](https://developer.mozilla.org/ru/docs/Web)
+
+#### React
+
+1. [https://metanit.com/web/react/](https://metanit.com/web/react/)
+1. [http://getinstance.info/articles/react/](http://getinstance.info/articles/react/)
+1. [https://facebook.github.io/react/docs/installation.html](https://facebook.github.io/react/docs/installation.html)
 
 ### PHP
 
