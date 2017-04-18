@@ -131,12 +131,20 @@
 1. [http://pythono.ru/pygame/](http://pythono.ru/pygame/)
 1. [http://pythono.ru/python-win-exe/](http://pythono.ru/python-win-exe/)
 1. [http://pythono.ru/pyqt-first-program/](http://pythono.ru/pyqt-first-program/)
+---
+1. [http://informatics.mccme.ru/](http://informatics.mccme.ru/)
+1. [http://informatics.mccme.ru/course/view.php?id=95](http://informatics.mccme.ru/course/view.php?id=95)
+1. [http://informatics.mccme.ru/mod/resource/view.php?id=1992](http://informatics.mccme.ru/mod/resource/view.php?id=1992)
+1. [http://informatics.mccme.ru/course/view.php?id=156](http://informatics.mccme.ru/course/view.php?id=156)
 
 ### Go
 
 1. [http://golang-book.ru/](http://golang-book.ru/)
 1. [https://golang.org/doc/](https://golang.org/doc/)
 1. [https://habrahabr.ru/post/249545/](https://habrahabr.ru/post/249545/)
+1. [Go init system](https://medium.com/@mustafaakin/writing-my-own-init-with-go-part-1-22e81495a246)
+1. [https://tour.golang.org/welcome/1](https://tour.golang.org/welcome/1)
+1. [https://github.com/golang/go/wiki/Learn](https://github.com/golang/go/wiki/Learn)
 
 ### Haskell
 
