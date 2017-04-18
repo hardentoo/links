@@ -74,6 +74,9 @@
 1. [https://www.tutorialspoint.com/wxpython/](https://www.tutorialspoint.com/wxpython/)
 1. [https://wiki.wxpython.org/How%20to%20Learn%20wxPython](https://wiki.wxpython.org/How%20to%20Learn%20wxPython)
 1. [https://wiki.wxpython.org/Getting%20Started](https://wiki.wxpython.org/Getting%20Started)
+1. [http://www.numpy.org/](http://www.numpy.org/)
+1. [https://docs.scipy.org/doc/numpy-dev/user/quickstart.html](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+
 ---
 1. [http://effbot.org/](http://effbot.org/)
 1. [http://effbot.org/imagingbook/pil-index.htm](http://effbot.org/imagingbook/pil-index.htm)
