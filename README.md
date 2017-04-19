@@ -152,6 +152,9 @@
 1. [https://tour.golang.org/welcome/1](https://tour.golang.org/welcome/1)
 1. [https://github.com/golang/go/wiki/Learn](https://github.com/golang/go/wiki/Learn)
 1. [https://www.qtrac.eu/gobook.html](https://www.qtrac.eu/gobook.html)
+1. [https://gobyexample.com/](https://gobyexample.com/)
+1. [http://exercism.io/languages/go/learning](http://exercism.io/languages/go/learning)
+1. [https://github.com/golang/go/wiki/Learn](https://github.com/golang/go/wiki/Learn)
 
 ### Haskell
 
