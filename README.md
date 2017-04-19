@@ -1,11 +1,13 @@
 # Links for programming
 
-### Courses
+### Tasks and Courses
 
 1. [https://www.codewars.com](https://www.codewars.com)
 1. [https://checkio.org](https://checkio.org)
 1. [http://www.codeabbey.com/](http://www.codeabbey.com/)
 1. [http://rosettacode.org/wiki/Rosetta_Code](http://rosettacode.org/wiki/Rosetta_Code)
+1. [https://codecov.io/](https://codecov.io/)
+1. [http://informatics.mccme.ru/](http://informatics.mccme.ru/)
 
 ### Dotfiles
 
@@ -76,7 +78,8 @@
 1. [https://wiki.wxpython.org/Getting%20Started](https://wiki.wxpython.org/Getting%20Started)
 1. [http://www.numpy.org/](http://www.numpy.org/)
 1. [https://docs.scipy.org/doc/numpy-dev/user/quickstart.html](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
-
+---
+1. [https://github.com/TheKnightsWhoSayNi/info/wiki/Hat](https://github.com/TheKnightsWhoSayNi/info/wiki/Hat)
 ---
 1. [http://effbot.org/](http://effbot.org/)
 1. [http://effbot.org/imagingbook/pil-index.htm](http://effbot.org/imagingbook/pil-index.htm)
@@ -136,6 +139,9 @@
 1. [http://informatics.mccme.ru/course/view.php?id=95](http://informatics.mccme.ru/course/view.php?id=95)
 1. [http://informatics.mccme.ru/mod/resource/view.php?id=1992](http://informatics.mccme.ru/mod/resource/view.php?id=1992)
 1. [http://informatics.mccme.ru/course/view.php?id=156](http://informatics.mccme.ru/course/view.php?id=156)
+---
+1 [http://docs.python-guide.org/en/latest/dev/virtualenvs/](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
+
 
 ### Go
 
