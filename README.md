@@ -142,7 +142,6 @@
 ---
 1 [http://docs.python-guide.org/en/latest/dev/virtualenvs/](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 
-
 ### Go
 
 1. [http://golang-book.ru/](http://golang-book.ru/)
@@ -155,6 +154,7 @@
 1. [https://gobyexample.com/](https://gobyexample.com/)
 1. [http://exercism.io/languages/go/learning](http://exercism.io/languages/go/learning)
 1. [https://github.com/golang/go/wiki/Learn](https://github.com/golang/go/wiki/Learn)
+1. [https://hackernoon.com/why-i-love-golang-90085898b4f7](https://hackernoon.com/why-i-love-golang-90085898b4f7)
 
 ### Haskell
 
@@ -164,6 +164,12 @@
 1. [https://wiki.haskell.org/Gentoo](https://wiki.haskell.org/Gentoo)
 1. [https://wiki.haskell.org/Gentoo/HaskellPlatform](https://wiki.haskell.org/Gentoo/HaskellPlatform)
 1. [https://wiki.gentoo.org/wiki/Haskell](https://wiki.gentoo.org/wiki/Haskell)
+---
+1. [http://projects.haskell.org/haskellmode-vim/](http://projects.haskell.org/haskellmode-vim/)
+1. [https://wiki.gentoo.org/wiki/Haskell](https://wiki.gentoo.org/wiki/Haskell)
+1. [https://wiki.haskell.org/Haskell_in_5_steps](https://wiki.haskell.org/Haskell_in_5_steps)
+1. [https://tryhaskell.org/](https://tryhaskell.org/)
+1. [https://habrahabr.ru/post/165559/](https://habrahabr.ru/post/165559/)
 
 ### JavaScript
 
