@@ -164,6 +164,8 @@
 1. [https://wiki.haskell.org/Gentoo](https://wiki.haskell.org/Gentoo)
 1. [https://wiki.haskell.org/Gentoo/HaskellPlatform](https://wiki.haskell.org/Gentoo/HaskellPlatform)
 1. [https://wiki.gentoo.org/wiki/Haskell](https://wiki.gentoo.org/wiki/Haskell)
+1. [http://xgu.ru/wiki/Haskell](http://xgu.ru/wiki/Haskell)
+1. [https://habrahabr.ru/post/120590/](https://habrahabr.ru/post/120590/)
 ---
 1. [http://projects.haskell.org/haskellmode-vim/](http://projects.haskell.org/haskellmode-vim/)
 1. [https://wiki.gentoo.org/wiki/Haskell](https://wiki.gentoo.org/wiki/Haskell)
