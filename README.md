@@ -2,12 +2,16 @@
 
 ### Tasks and Courses
 
+1. List at [slant.co](https://www.slant.co/topics/2497/~coding-challenge-siteshttps://www.slant.co/topics/2497/~coding-challenge-sites)
 1. [https://www.codewars.com](https://www.codewars.com)
 1. [https://checkio.org](https://checkio.org)
 1. [http://www.codeabbey.com/](http://www.codeabbey.com/)
 1. [http://rosettacode.org/wiki/Rosetta_Code](http://rosettacode.org/wiki/Rosetta_Code)
 1. [https://codecov.io/](https://codecov.io/)
 1. [http://informatics.mccme.ru/](http://informatics.mccme.ru/)
+1. [https://www.topcoder.com/](https://www.topcoder.com/)
+1. [https://www.codingame.com/start](https://www.codingame.com/start)
+1. [http://codeforces.com/?locale=ru](http://codeforces.com/?locale=ru)
 
 ### Dotfiles
 
