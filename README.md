@@ -140,7 +140,7 @@
 1. [http://informatics.mccme.ru/mod/resource/view.php?id=1992](http://informatics.mccme.ru/mod/resource/view.php?id=1992)
 1. [http://informatics.mccme.ru/course/view.php?id=156](http://informatics.mccme.ru/course/view.php?id=156)
 ---
-1 [http://docs.python-guide.org/en/latest/dev/virtualenvs/](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
+1. [http://docs.python-guide.org/en/latest/dev/virtualenvs/](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 
 ### Go
 
