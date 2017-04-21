@@ -147,7 +147,7 @@
 1. [http://golang-book.ru/](http://golang-book.ru/)
 1. [https://golang.org/doc/](https://golang.org/doc/)
 1. [https://habrahabr.ru/post/249545/](https://habrahabr.ru/post/249545/)
-1. [Go init system](https://medium.com/@mustafaakin/writing-my-own-init-with-go-part-1-22e81495a246)
+1. [https://medium.com/@mustafaakin](https://medium.com/@mustafaakin/writing-my-own-init-with-go-part-1-22e81495a246)
 1. [https://tour.golang.org/welcome/1](https://tour.golang.org/welcome/1)
 1. [https://github.com/golang/go/wiki/Learn](https://github.com/golang/go/wiki/Learn)
 1. [https://www.qtrac.eu/gobook.html](https://www.qtrac.eu/gobook.html)
