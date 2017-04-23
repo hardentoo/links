@@ -55,6 +55,7 @@
 1. [https://docs.python.org/3/](https://docs.python.org/3/)
 1. [https://docs.python.org/3.6/tutorial/index.html](https://docs.python.org/3.6/tutorial/index.html)
 1. [https://docs.python.org/3.6/library/index.html](https://docs.python.org/3.6/library/index.html)
+1. [https://docs.python.org/3/library/stdtypes.html](https://docs.python.org/3/library/stdtypes.html)
 1. [https://docs.python.org/3.6/c-api/index.html](https://docs.python.org/3.6/c-api/index.html)
 1. [https://docs.python.org/3/howto/curses.html](https://docs.python.org/3/howto/curses.html)
 1. [https://python-gtk-3-tutorial.readthedocs.io/en/latest/](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
@@ -145,7 +146,8 @@
 1. [http://informatics.mccme.ru/course/view.php?id=156](http://informatics.mccme.ru/course/view.php?id=156)
 ---
 1. [http://docs.python-guide.org/en/latest/dev/virtualenvs/](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
-
+---
+1. [https://www.programiz.com/python-programming/examples](https://www.programiz.com/python-programming/examples)
 ### Go
 
 1. [http://golang-book.ru/](http://golang-book.ru/)
