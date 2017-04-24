@@ -164,6 +164,8 @@
 
 ### Haskell
 
+1. [https://www.haskell.org/](https://www.haskell.org/)
+
 1. [https://anton-k.github.io/ru-haskell-book/book/home.html](https://anton-k.github.io/ru-haskell-book/book/home.html)
 1. [http://blogerator.org/page/haskell-s-chego-nachat](http://blogerator.org/page/haskell-s-chego-nachat)
 1. [http://alexott.net/ru/fp/books/](http://alexott.net/ru/fp/books/)
@@ -178,6 +180,27 @@
 1. [https://wiki.haskell.org/Haskell_in_5_steps](https://wiki.haskell.org/Haskell_in_5_steps)
 1. [https://tryhaskell.org/](https://tryhaskell.org/)
 1. [https://habrahabr.ru/post/165559/](https://habrahabr.ru/post/165559/)
+---
+1. [http://eax.me/tag/haskell/](http://eax.me/tag/haskell/)
+1. [http://eax.me/haskell-genetic-algorithm/](http://eax.me/haskell-genetic-algorithm/)
+1. [http://dev.stephendiehl.com/fun/001_basics.html](http://dev.stephendiehl.com/fun/001_basics.html)
+1. [https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/Simple_examples](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/Simple%20examples)
+1. [https://tproger.ru/articles/free-programming-books/#haskell](https://tproger.ru/articles/free-programming-books/#haskell)
+---
+1. [https://lin-techdet.blogspot.co.uk/2011/05/c-haskell.html](https://lin-techdet.blogspot.co.uk/2011/05/c-haskell.html)
+1. [https://lin-techdet.blogspot.co.uk/2015/06/haskell.html](https://lin-techdet.blogspot.co.uk/2015/06/haskell.html)
+1. [https://lin-techdet.blogspot.co.uk/2015/04/haskell.html](https://lin-techdet.blogspot.co.uk/2015/04/haskell.html)
+1. [https://lin-techdet.blogspot.co.uk/2010/11/haskell.html](https://lin-techdet.blogspot.co.uk/2010/11/haskell.html)
+1. [http://www.algorithmist.ru/2010/05/haskell-3.html](http://www.algorithmist.ru/2010/05/haskell-3.html)
+1. [http://lionet.livejournal.com/44305.html](http://lionet.livejournal.com/44305.html)
+1. [https://ru.wikibooks.org/wiki/Язык_Haskell:_О_пользе_и_вреде_лени](https://ru.wikibooks.org/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_Haskell:_%D0%9E_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%B5_%D0%B8_%D0%B2%D1%80%D0%B5%D0%B4%D0%B5_%D0%BB%D0%B5%D0%BD%D0%B8)
+---
+1. [https://wiki.haskell.org/Jobs](https://wiki.haskell.org/Jobs)
+1. [https://functionaljobs.com/](https://functionaljobs.com/)
+---
+1. [https://en.wikibooks.org/wiki/Haskell](https://en.wikibooks.org/wiki/Haskell)
+1. [https://wiki.haskell.org/Books](https://wiki.haskell.org/Books)
+1. [https://jaortega.wordpress.com/2006/03/28/a-haskell-bookshelf/](https://jaortega.wordpress.com/2006/03/28/a-haskell-bookshelf/)
 
 ### JavaScript
 
