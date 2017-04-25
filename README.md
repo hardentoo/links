@@ -150,6 +150,7 @@
 1. [http://docs.python-guide.org/en/latest/dev/virtualenvs/](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 ---
 1. [https://www.programiz.com/python-programming/examples](https://www.programiz.com/python-programming/examples)
+
 ### Go
 
 1. [http://golang-book.ru/](http://golang-book.ru/)
@@ -163,6 +164,7 @@
 1. [http://exercism.io/languages/go/learning](http://exercism.io/languages/go/learning)
 1. [https://github.com/golang/go/wiki/Learn](https://github.com/golang/go/wiki/Learn)
 1. [https://hackernoon.com/why-i-love-golang-90085898b4f7](https://hackernoon.com/why-i-love-golang-90085898b4f7)
+1. [https://www.golang-book.com/](https://www.golang-book.com/)
 
 ### Haskell
 
@@ -203,6 +205,9 @@
 1. [https://en.wikibooks.org/wiki/Haskell](https://en.wikibooks.org/wiki/Haskell)
 1. [https://wiki.haskell.org/Books](https://wiki.haskell.org/Books)
 1. [https://jaortega.wordpress.com/2006/03/28/a-haskell-bookshelf/](https://jaortega.wordpress.com/2006/03/28/a-haskell-bookshelf/)
+---
+1. [http://zvon.org/other/haskell/Outputglobal/index.html](http://zvon.org/other/haskell/Outputglobal/index.html)
+1. [http://www.pvsm.ru/javascript/234940](http://www.pvsm.ru/javascript/234940)
 
 ### JavaScript
 
