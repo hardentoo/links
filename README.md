@@ -6,12 +6,20 @@
 1. [https://www.codewars.com](https://www.codewars.com)
 1. [https://checkio.org](https://checkio.org)
 1. [http://www.codeabbey.com/](http://www.codeabbey.com/)
+1. [http://www.codeabbey.com/index/task_list](http://www.codeabbey.com/index/task_list)
 1. [http://rosettacode.org/wiki/Rosetta_Code](http://rosettacode.org/wiki/Rosetta_Code)
 1. [https://codecov.io/](https://codecov.io/)
 1. [http://informatics.mccme.ru/](http://informatics.mccme.ru/)
 1. [https://www.topcoder.com/](https://www.topcoder.com/)
 1. [https://www.codingame.com/start](https://www.codingame.com/start)
 1. [http://codeforces.com/?locale=ru](http://codeforces.com/?locale=ru)
+1. [https://codefights.com/](https://codefights.com/)
+1. [http://codingbat.com/java](http://codingbat.com/java)
+1. [https://www.topcoder.com/](https://www.topcoder.com/)
+1. [http://www.sql-ex.ru/learn_exercises.php?Lang=0](http://www.sql-ex.ru/learn_exercises.php?Lang=0)
+1. [http://www.pskills.org/](http://www.pskills.org/)
+1. [https://www.codingame.com/start](https://www.codingame.com/start)
+1. [http://adventofcode.com/](http://adventofcode.com/)
 
 ### Dotfiles
 
@@ -165,50 +173,6 @@
 1. [https://github.com/golang/go/wiki/Learn](https://github.com/golang/go/wiki/Learn)
 1. [https://hackernoon.com/why-i-love-golang-90085898b4f7](https://hackernoon.com/why-i-love-golang-90085898b4f7)
 1. [https://www.golang-book.com/](https://www.golang-book.com/)
-
-### Haskell
-
-1. [https://www.haskell.org/](https://www.haskell.org/)
-1. [https://anton-k.github.io/ru-haskell-book/book/home.html](https://anton-k.github.io/ru-haskell-book/book/home.html)
-1. [http://blogerator.org/page/haskell-s-chego-nachat](http://blogerator.org/page/haskell-s-chego-nachat)
-1. [http://alexott.net/ru/fp/books/](http://alexott.net/ru/fp/books/)
-1. [https://wiki.haskell.org/Gentoo](https://wiki.haskell.org/Gentoo)
-1. [https://wiki.haskell.org/Gentoo/HaskellPlatform](https://wiki.haskell.org/Gentoo/HaskellPlatform)
-1. [https://wiki.gentoo.org/wiki/Haskell](https://wiki.gentoo.org/wiki/Haskell)
-1. [http://xgu.ru/wiki/Haskell](http://xgu.ru/wiki/Haskell)
-1. [https://habrahabr.ru/post/120590/](https://habrahabr.ru/post/120590/)
----
-1. [http://projects.haskell.org/haskellmode-vim/](http://projects.haskell.org/haskellmode-vim/)
-1. [https://wiki.gentoo.org/wiki/Haskell](https://wiki.gentoo.org/wiki/Haskell)
-1. [https://wiki.haskell.org/Haskell_in_5_steps](https://wiki.haskell.org/Haskell_in_5_steps)
-1. [https://tryhaskell.org/](https://tryhaskell.org/)
-1. [https://habrahabr.ru/post/165559/](https://habrahabr.ru/post/165559/)
----
-1. [http://eax.me/tag/haskell/](http://eax.me/tag/haskell/)
-1. [http://eax.me/haskell-genetic-algorithm/](http://eax.me/haskell-genetic-algorithm/)
-1. [http://dev.stephendiehl.com/fun/001_basics.html](http://dev.stephendiehl.com/fun/001_basics.html)
-1. [https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/Simple_examples](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/Simple%20examples)
-1. [https://tproger.ru/articles/free-programming-books/#haskell](https://tproger.ru/articles/free-programming-books/#haskell)
----
-1. [https://lin-techdet.blogspot.co.uk/2011/05/c-haskell.html](https://lin-techdet.blogspot.co.uk/2011/05/c-haskell.html)
-1. [https://lin-techdet.blogspot.co.uk/2015/06/haskell.html](https://lin-techdet.blogspot.co.uk/2015/06/haskell.html)
-1. [https://lin-techdet.blogspot.co.uk/2015/04/haskell.html](https://lin-techdet.blogspot.co.uk/2015/04/haskell.html)
-1. [https://lin-techdet.blogspot.co.uk/2010/11/haskell.html](https://lin-techdet.blogspot.co.uk/2010/11/haskell.html)
-1. [http://www.algorithmist.ru/2010/05/haskell-3.html](http://www.algorithmist.ru/2010/05/haskell-3.html)
-1. [http://lionet.livejournal.com/44305.html](http://lionet.livejournal.com/44305.html)
-1. [https://ru.wikibooks.org/wiki/Язык_Haskell:_О_пользе_и_вреде_лени](https://ru.wikibooks.org/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_Haskell:_%D0%9E_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%B5_%D0%B8_%D0%B2%D1%80%D0%B5%D0%B4%D0%B5_%D0%BB%D0%B5%D0%BD%D0%B8)
----
-1. [https://wiki.haskell.org/Jobs](https://wiki.haskell.org/Jobs)
-1. [https://functionaljobs.com/](https://functionaljobs.com/)
----
-1. [https://en.wikibooks.org/wiki/Haskell](https://en.wikibooks.org/wiki/Haskell)
-1. [https://wiki.haskell.org/Books](https://wiki.haskell.org/Books)
-1. [https://jaortega.wordpress.com/2006/03/28/a-haskell-bookshelf/](https://jaortega.wordpress.com/2006/03/28/a-haskell-bookshelf/)
----
-1. [http://zvon.org/other/haskell/Outputglobal/index.html](http://zvon.org/other/haskell/Outputglobal/index.html)
-1. [http://www.pvsm.ru/javascript/234940](http://www.pvsm.ru/javascript/234940)
----
-1. [https://stepik.org/course/Функциональное-программирование-на-языке-Haskell-75/syllabus](https://stepik.org/course/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5-Haskell-75/syllabus)
 
 ### JavaScript
 
