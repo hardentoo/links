@@ -73,8 +73,6 @@
 1. [http://www.cyberforum.ru/haskell/thread557216.html](http://www.cyberforum.ru/haskell/thread557216.html)
 1. [http://www.leksah.org/](http://www.leksah.org/)
 1. [http://www.pvsm.ru/haskell/247629#begin](http://www.pvsm.ru/haskell/247629#begin)
-1. [http://www.pvsm.ru/haskell/247629#begin](http://www.pvsm.ru/haskell/247629#begin)
-1. [http://www.pvsm.ru/haskell/251313#begin](http://www.pvsm.ru/haskell/251313#begin)
 1. [http://www.pvsm.ru/haskell/251313#begin](http://www.pvsm.ru/haskell/251313#begin)
 1. [http://www.pvsm.ru/haskell/3369#begin](http://www.pvsm.ru/haskell/3369#begin)
 1. [http://www.pvsm.ru/javascript/234940](http://www.pvsm.ru/javascript/234940)
