@@ -41,6 +41,7 @@
 1. [https://progra-lang.blogspot.ru/2016/02/Operatory-v-yazyke-programmirovaniya-Haskell.html](https://progra-lang.blogspot.ru/2016/02/Operatory-v-yazyke-programmirovaniya-Haskell.html)
 1. [https://rsdn.org/article/haskell/haskell_part1.xml](https://rsdn.org/article/haskell/haskell_part1.xml)
 1. [https://ruhaskell.org/](https://ruhaskell.org/)
+1. [https://github.com/ruHaskell](https://github.com/ruHaskell)
 1. [https://ru.wikibooks.org/wiki/Основы_функционального_программирования/Haskell/Служебные_слова_и_синтаксис](https://ru.wikibooks.org/wiki/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/Haskell/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0_%D0%B8_%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81)
 1. [https://ru.wikibooks.org/wiki/Теория_чисел_и_язык_Haskell](https://ru.wikibooks.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%87%D0%B8%D1%81%D0%B5%D0%BB_%D0%B8_%D1%8F%D0%B7%D1%8B%D0%BA_Haskell)
 1. [https://ru.wikibooks.org/wiki/Язык_Haskell:_О_пользе_и_вреде_лени](https://ru.wikibooks.org/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_Haskell:_%D0%9E_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%B5_%D0%B8_%D0%B2%D1%80%D0%B5%D0%B4%D0%B5_%D0%BB%D0%B5%D0%BD%D0%B8)
