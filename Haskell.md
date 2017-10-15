@@ -111,3 +111,7 @@
 1. [http://qnikst.github.io/posts/2013-03-31-gentoo-haskell.html](http://qnikst.github.io/posts/2013-03-31-gentoo-haskell.html)
 1. [http://gentoohaskell.wordpress.com/](http://gentoohaskell.wordpress.com/)
 1. [http://www.haskell.org/haskellwiki/Gentoo](http://www.haskell.org/haskellwiki/Gentoo)
+1. [https://haskell-lang.org/documentation](https://haskell-lang.org/documentation)
+1. [https://www.fpcomplete.com/](https://www.fpcomplete.com/)
+1. [https://ruhaskell.org/posts/utils/2015/07/13/from-cabal-to-stack.html](https://ruhaskell.org/posts/utils/2015/07/13/from-cabal-to-stack.html)
+1. [http://eax.me/haskell-stack/](http://eax.me/haskell-stack/)
