@@ -30,6 +30,7 @@
 1. [https://www.tutorialspoint.com/cprogramming/cprogramming_online_quiz.htm](https://www.tutorialspoint.com/cprogramming/cprogramming_online_quiz.htm)
 1. [http://www.cprogramming.com/tutorial/c/quiz/quiz1.html](http://www.cprogramming.com/tutorial/c/quiz/quiz1.html) 
 1. [http://cpp.com.ru/shildt_spr_po_c/index.html](http://cpp.com.ru/shildt_spr_po_c/index.html)
+1. [https://gcc.gnu.org/onlinedocs/libstdc++/index.html](https://gcc.gnu.org/onlinedocs/libstdc++/index.html)
 ---
 1. [http://www.delorie.com/djgpp/doc/libc/](http://www.delorie.com/djgpp/doc/libc/)
 1. [https://ru.wikibooks.org/wiki/Язык_Си_в_примерах](https://ru.wikibooks.org/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%A1%D0%B8_%D0%B2_%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D1%85)
