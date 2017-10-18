@@ -1,5 +1,13 @@
 # Haskell
 
+1. [https://rsdn.org/article/haskell/haskell_part1.xml](https://rsdn.org/article/haskell/haskell_part1.xml)
+1. [https://rsdn.org/article/haskell/haskell_part2.xml](https://rsdn.org/article/haskell/haskell_part2.xml)
+1. [http://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html](http://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html)
+1. [http://www.haskellforall.com/2013/06/from-zero-to-cooperative-threads-in-33.html](http://www.haskellforall.com/2013/06/from-zero-to-cooperative-threads-in-33.html)
+1. [http://weblog.luite.com/wordpress/](http://weblog.luite.com/wordpress/)
+1. [http://www.informatik.uni-bremen.de/htk/](http://www.informatik.uni-bremen.de/htk/)
+1. [https://archives.haskell.org/projects.haskell.org/diagrams/gallery/SquareLimit.html](https://archives.haskell.org/projects.haskell.org/diagrams/gallery/SquareLimit.html)
+1. [https://archives.haskell.org/projects.haskell.org/diagrams/gallery.html](https://archives.haskell.org/projects.haskell.org/diagrams/gallery.html)
 1. [https://www.stackage.org/](https://www.stackage.org/)
 1. [https://docs.haskellstack.org/en/stable/README/](https://docs.haskellstack.org/en/stable/README/)
 1. [https://haskell-lang.org/get-started](https://haskell-lang.org/get-started)
