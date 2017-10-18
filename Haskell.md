@@ -1,5 +1,9 @@
 # Haskell
 
+1. [http://www.muitovar.com/gtk2hs/index.html](http://www.muitovar.com/gtk2hs/index.html)
+1. [http://haskellformaths.blogspot.ru/](http://haskellformaths.blogspot.ru/)
+1. [http://haskellformaths.blogspot.ru/2011/09/commutative-algebra-and-algebraic.html](http://haskellformaths.blogspot.ru/2011/09/commutative-algebra-and-algebraic.html)
+1. [https://www.ibm.com/developerworks/ru/library/l-haskell3/](https://www.ibm.com/developerworks/ru/library/l-haskell3/)
 1. [https://rsdn.org/article/haskell/haskell_part1.xml](https://rsdn.org/article/haskell/haskell_part1.xml)
 1. [https://rsdn.org/article/haskell/haskell_part2.xml](https://rsdn.org/article/haskell/haskell_part2.xml)
 1. [http://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html](http://www.haskellforall.com/2017/10/advice-for-haskell-beginners.html)
