@@ -1,0 +1,2 @@
+https://habrahabr.ru/post/190442/
+https://ruhaskell.org/posts/packages/2015/01/23/lenses-hello-world.html

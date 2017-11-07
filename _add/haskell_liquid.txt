@@ -1,0 +1,7 @@
+https://ruhaskell.org/posts/utils/2016/12/16/liquidhaskell-hello.html
+https://wiki.haskell.org/Liquid_Haskell
+https://ucsd-progsys.github.io/liquidhaskell-blog/
+https://github.com/hardentoo/liquidhaskell
+https://arxiv.org/pdf/1701.03320
+http://goto.ucsd.edu:8090/index.html
+https://www.youtube.com/watch?v=vQrutfPAERQ

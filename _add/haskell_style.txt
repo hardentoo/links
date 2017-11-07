@@ -1,0 +1,4 @@
+https://github.com/hardentoo/haskell-style-guide
+http://www.cse.unsw.edu.au/~cs3161/15s2/StyleGuide.html
+http://urchin.earth.li/~ian/style/haskell.html
+https://begriffs.com/posts/2015-06-03-haskell-continuations.html

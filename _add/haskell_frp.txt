@@ -1,0 +1,2 @@
+https://wiki.haskell.org/FRP_explanation_using_reactive-banana
+http://kenta.blogspot.ru/

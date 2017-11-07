@@ -1,0 +1,5 @@
+https://www.fpcomplete.com/blog/2015/08/stack-docker
+https://docs.haskellstack.org/en/stable/docker_integration/
+https://robots.thoughtbot.com/easy-haskell-development-and-deployment-with-docker
+https://begriffs.com/posts/2015-08-11-dev-deploy-haskell-docker.html
+https://www.christopherbiscardi.com/2014/11/23/using-the-docker-haskell-official-image/

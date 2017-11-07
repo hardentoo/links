@@ -1,0 +1,6 @@
+https://crypto.stanford.edu/~blynn/haskell/cga.html
+https://zacknewmanblog.wordpress.com/2015/11/21/finite-geometry/
+https://vandreev.wordpress.com/2006/12/04/non-standard-analysis-and-automatic-differentiation/
+https://wiki.haskell.org/Blog_articles/Mathematics
+https://wiki.haskell.org/Haskell_and_mathematics
+http://haskellformaths.blogspot.ru/

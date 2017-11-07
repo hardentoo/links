@@ -1,0 +1,8 @@
+http://eax.me/monads/
+http://eax.me/functor-applicative-and-monoid/
+https://en.wikibooks.org/wiki/Haskell/Applicative_functors
+https://www.youtube.com/watch?v=6qoIUu6gNUI
+https://www.youtube.com/watch?v=4tXna2Al3Ps&t=1s
+https://www.youtube.com/watch?v=gEoruozy3mk
+https://www.youtube.com/watch?v=6qoIUu6gNUI&index=8&list=PLXSqjnf5bkVaoo11Im3r3x637myNoJJt-
+http://blog.sigfpe.com/2007/04/trivial-monad.html

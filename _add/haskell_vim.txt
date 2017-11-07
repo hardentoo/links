@@ -1,0 +1,8 @@
+https://wiki.haskell.org/IDEs
+https://github.com/hardentoo/vimshell.vim
+https://github.com/hardentoo/idris-vim
+https://github.com/hardentoo/haskell-vim
+https://github.com/hardentoo/ale
+http://www.stephendiehl.com/posts/vim_2016.html
+https://github.com/hardentoo/haskell-vim-now
+https://github.com/hardentoo/haskell-vim-proto

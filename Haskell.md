@@ -1,5 +1,26 @@
 # Haskell
 
+### Cabal
+
+1. [https://www.haskell.org/cabal/users-guide/index.html](https://www.haskell.org/cabal/users-guide/index.html)
+1. [https://www.haskell.org/cabal/release/cabal-1.24.0.0/doc/users-guide/installing-packages.html](https://www.haskell.org/cabal/release/cabal-1.24.0.0/doc/users-guide/installing-packages.html)
+1. [https://wiki.haskell.org/Cabal-Install](https://wiki.haskell.org/Cabal-Install)
+1. [https://www.haskell.org/cabal/FAQ.html](https://www.haskell.org/cabal/FAQ.html)
+1. [http://coldwa.st/e/blog/2013-08-20-Cabal-sandbox.html](http://coldwa.st/e/blog/2013-08-20-Cabal-sandbox.html)
+1. [https://ruhaskell.org/posts/utils/2015/07/13/from-cabal-to-stack.html](https://ruhaskell.org/posts/utils/2015/07/13/from-cabal-to-stack.html)
+
+### Stack
+
+1. [https://github.com/commercialhaskell/stack/blob/master/doc/GUIDE.md](https://github.com/commercialhaskell/stack/blob/master/doc/GUIDE.md)
+1. [https://docs.haskellstack.org/en/stable/README/](https://docs.haskellstack.org/en/stable/README/)
+1. [https://ruhaskell.org/posts/utils/2015/07/13/from-cabal-to-stack.html](https://ruhaskell.org/posts/utils/2015/07/13/from-cabal-to-stack.html)
+
+### Hakyll
+
+1. [https://jaspervdj.be/hakyll/tutorials/github-pages-tutorial.html](https://jaspervdj.be/hakyll/tutorials/github-pages-tutorial.html)
+
+### Other
+
 1. [http://www.muitovar.com/gtk2hs/index.html](http://www.muitovar.com/gtk2hs/index.html)
 1. [http://haskellformaths.blogspot.ru/](http://haskellformaths.blogspot.ru/)
 1. [http://haskellformaths.blogspot.ru/2011/09/commutative-algebra-and-algebraic.html](http://haskellformaths.blogspot.ru/2011/09/commutative-algebra-and-algebraic.html)

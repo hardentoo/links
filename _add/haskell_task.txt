@@ -1,0 +1,3 @@
+http://exercism.io/languages/haskell/about
+https://wiki.haskell.org/Typeclassopedia
+https://www.codewars.com/users/KolodeznyDiver/completed

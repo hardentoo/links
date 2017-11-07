@@ -1,0 +1,6 @@
+http://haskellnews.org/
+https://www.haskell.org/news
+https://twitter.com/haskellorg
+https://www.reddit.com/r/haskell/
+https://planet.haskell.org/
+https://haskellweekly.news/

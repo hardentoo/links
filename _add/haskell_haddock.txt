@@ -1,0 +1,3 @@
+https://www.haskell.org/haddock/
+https://www.haskell.org/haddock/doc/html/index.html
+http://andrew.gibiansky.com/blog/haskell/haskell-gloss/

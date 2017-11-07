@@ -1,0 +1,2 @@
+http://ezyang.com/haskell.html
+http://lambda.jstolarek.com/2017/07/deepspec-summer-school-2017-a-summary/

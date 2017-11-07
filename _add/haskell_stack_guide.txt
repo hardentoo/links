@@ -1,0 +1,3 @@
+https://github.com/commercialhaskell/stack/blob/master/doc/GUIDE.md
+https://docs.haskellstack.org/en/stable/README/
+https://ruhaskell.org/posts/utils/2015/07/13/from-cabal-to-stack.html

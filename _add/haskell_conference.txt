@@ -1,0 +1,5 @@
+https://wiki.haskell.org/Conferences
+https://www.haskell.org/haskell-symposium/2017/
+https://skillsmatter.com/conferences/8522-haskell-exchange-2017
+https://wiki.haskell.org/ZuriHac
+http://fpconf.ru/

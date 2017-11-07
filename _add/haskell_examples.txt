@@ -1,0 +1,6 @@
+https://www.schoolofhaskell.com/user/eriks/Simple%20examples
+http://lotz84.github.io/haskellbyexample/
+http://www.haskellforall.com/2015/10/basic-haskell-examples.html
+https://github.com/snoyberg/file-server-demo
+http://exercism.io/languages/haskell/about
+https://wiki.haskell.org/Tutorials/Programming_Haskell/String_IO
