@@ -1,0 +1,2 @@
+https://rsdn.org/article/haskell/haskell_part1.xml
+https://rsdn.org/article/haskell/haskell_part2.xml

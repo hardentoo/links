@@ -1,0 +1,1 @@
+https://github.com/mattgreen/dotfiles/blob/master/git/gitconfig

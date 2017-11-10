@@ -1,0 +1,5 @@
+https://wiki.haskell.org/Monad
+http://andrew.gibiansky.com/blog/haskell/haskell-abstractions/
+http://www.lounge.se/wiki2/show/MonadMotivation
+https://wiki.haskell.org/All_About_Monads
+http://eax.me/monads/

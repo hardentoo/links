@@ -1,2 +1,7 @@
 http://antilamer.livejournal.com/438034.html
 http://users.livejournal.com/-adept-/tag/icfpc
+
+https://www.slant.co/topics/2251/~resources-to-learn-haskell
+https://hackr.io/tutorials/learn-haskell
+
+https://habrahabr.ru/post/193722/

@@ -4,3 +4,9 @@ http://www.haskellforall.com/2015/10/basic-haskell-examples.html
 https://github.com/snoyberg/file-server-demo
 http://exercism.io/languages/haskell/about
 https://wiki.haskell.org/Tutorials/Programming_Haskell/String_IO
+https://rosettacode.org/wiki/Category:Haskell
+https://wiki.haskell.org/Example_code
+https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
+https://wiki.haskell.org/Learn_Haskell_in_10_minutes
+https://wiki.haskell.org/Haskell_in_5_steps
+http://andrew.gibiansky.com/blog/haskell/haskell-gloss/

@@ -1,2 +1,16 @@
 http://ezyang.com/haskell.html
 http://lambda.jstolarek.com/2017/07/deepspec-summer-school-2017-a-summary/
+http://sillybytes.net/
+https://silly-bytes.blogspot.ru/
+https://qnikst.github.io/
+https://planet.haskell.org/
+http://forumgeom.fau.edu/
+
+https://lin-techdet.blogspot.ru/2011/05/c-haskell.html
+http://fprog.ru/2009/issue1/dmitry-astapov-checkers/
+
+http://lambda.jstolarek.com/2015/03/first-impressions-of-coq-and-certified-programming-with-dependent-types/
+http://yannesposito.com/Scratch/en/blog/Haskell-OpenGL-Mandelbrot/
+
+https://www.schoolofhaskell.com/user/edwardk
+https://gregheartsfield.com/

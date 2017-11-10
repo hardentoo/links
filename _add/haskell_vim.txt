@@ -6,3 +6,17 @@ https://github.com/hardentoo/ale
 http://www.stephendiehl.com/posts/vim_2016.html
 https://github.com/hardentoo/haskell-vim-now
 https://github.com/hardentoo/haskell-vim-proto
+
+https://github.com/hardentoo/vim-slime
+https://github.com/hardentoo/vimshell.vim
+https://habrahabr.ru/post/236981/
+
+http://www.stephendiehl.com/posts/vim_haskell.html
+https://github.com/hardentoo/haskell-vim-now
+https://github.com/hardentoo/vimux
+
+https://silly-bytes.blogspot.ru/2016/08/vim-haskell_11.html
+
+http://haskelllive.com/environment.html
+https://seanhess.github.io/2015/08/05/practical-haskell-editors.html
+https://blog.jez.io/haskell-development-with-neovim/

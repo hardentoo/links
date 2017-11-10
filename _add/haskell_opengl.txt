@@ -1,0 +1,5 @@
+https://habrahabr.ru/post/120686/
+http://eax.me/haskell-opengl/
+http://www.arcadianvisions.com/blog/2011/modern-opengl-with-haskell.html
+https://wiki.haskell.org/OpenGL
+https://wiki.haskell.org/OpenGLTutorial1

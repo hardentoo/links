@@ -3,3 +3,11 @@ https://www.haskell.org/haskell-symposium/2017/
 https://skillsmatter.com/conferences/8522-haskell-exchange-2017
 https://wiki.haskell.org/ZuriHac
 http://fpconf.ru/
+
+https://skillsmatter.com/conferences/10237-haskell-exchange-2018
+http://www.icm2018.org/portal/en/home/
+https://math.hse.ru/news/207813064.html
+
+http://hal2016.haskell.org/
+
+https://conf.researchr.org/home/icfp-2018/

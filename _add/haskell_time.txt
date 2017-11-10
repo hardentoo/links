@@ -1,0 +1,6 @@
+https://wiki.haskell.org/Timing_computations
+http://chrisdone.com/posts/measuring-duration-in-haskell
+https://0xax.github.io/haskel-execution-time/
+https://0xax.blogspot.ru/2013/08/get-function-execution-time-in-haskell.html
+https://wiki.haskell.org/Performance/GHC
+https://www.rosettacode.org/wiki/Time_a_function#Haskell
